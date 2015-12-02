@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "9fc0bece-4a9f-0410-a96e-7735bbd9c695++4187" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9fc0bece-4a9f-0410-a96e-7735bbd9c695++4187" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0773FCB5-8422-4623-8050-DF358A2F4445",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9fc0bece-4a9f-0410-a96e-7735bbd9c695++4187" : "DreamBOTSVN\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DreamBot",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DreamBot.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/160.110.79.116\/dellsvn\/MobilityCOE",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9fc0bece-4a9f-0410-a96e-7735bbd9c695++4187"
+    }
+  ]
+}
